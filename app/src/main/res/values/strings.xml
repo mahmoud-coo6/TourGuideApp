@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_cuisine">Cuisine</string>
+    <string name="category_trails">Trails</string>
+    <string name="category_news">News</string>
+    <string name="category_events">Events</string>
+    <string name="description">Description</string>
+    <string name="info">information</string>
+</resources>
